@@ -1,0 +1,1 @@
+# android_activity_life_cycle_test
